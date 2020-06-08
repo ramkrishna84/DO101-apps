@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\openshift"
+		},
+		{
+			"name": "DO101-apps",
+			"path": "..\\openshift\\DO101-apps"
+		}
+	],
+	"settings": {}
+}
